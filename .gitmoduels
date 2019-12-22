@@ -1,0 +1,3 @@
+[submodule "github-workshop"]
+	path = github-workshop
+	url = https://github.com/Lionex/github-workshop.git
